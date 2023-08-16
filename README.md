@@ -9,6 +9,7 @@
 |2023.08.08|[\[Velog\] 코드 분석](https://thin-asiago-c43.notion.site/Velog-1-56244e4914274f13a3b915aeaa6f15dc?pvs=4)|
 |2023.08.12|[Diffable Data Source](https://thin-asiago-c43.notion.site/DiffableDataSource-4d0441bb26ed4ae29be2416e41f87f59?pvs=4)|
 |2023.08.15|[카카오 소셜 로그인](https://thin-asiago-c43.notion.site/Kakao-Social-Login-b6ff5cc0b0cc4eb68b6005e4a5842e56?pvs=4)||
+|2023.08.16|[애플 소셜 로그인](https://thin-asiago-c43.notion.site/Apple-Social-Login-0f3142d8d28f43e1a8a2986a1ca2e60e?pvs=4)|
 |--|--|
 
 <br>
