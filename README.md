@@ -10,6 +10,11 @@
 |2023.08.12|[Diffable Data Source](https://thin-asiago-c43.notion.site/DiffableDataSource-4d0441bb26ed4ae29be2416e41f87f59?pvs=4)|
 |2023.08.15|[카카오 소셜 로그인](https://thin-asiago-c43.notion.site/Kakao-Social-Login-b6ff5cc0b0cc4eb68b6005e4a5842e56?pvs=4)||
 |2023.08.16|[애플 소셜 로그인](https://thin-asiago-c43.notion.site/Apple-Social-Login-0f3142d8d28f43e1a8a2986a1ca2e60e?pvs=4)|
+|2023.08.25|[Compositional Layout - 1](https://thin-asiago-c43.notion.site/Compositional-Layout-1-a3c607fea50443799225083e5af2bbe1?pvs=4)|
+|2023.08.26|[\[RxSwift\] Input Output](https://thin-asiago-c43.notion.site/RxSwift-MVVM-Input-Output-e996591bc2d84afb9eeb28800cc55c5f?pvs=4)|
+|2023.08.27|[\[KeyChain\] 기본 개념](https://thin-asiago-c43.notion.site/Using-the-Keychain-to-Manage-User-Secrets-177be748b9fb4d90ab08d8c2d6f8b708?pvs=4)|
+|2023.08.28|[\[Protocol Oriented Programming\]Protocol 관련 문법](https://thin-asiago-c43.notion.site/Protocol-a3acc4e02aee43c0add01cabc931fe86?pvs=4)|
+|2023.08.30|[\[건빵 Study\] 기술 면접 뿌수기 - 1](https://thin-asiago-c43.notion.site/Study-8-30-1-7dfb4e399f03452d943fe67300d6e99e?pvs=4)|
 |--|--|
 
 <br>
