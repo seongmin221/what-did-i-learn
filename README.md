@@ -15,7 +15,7 @@
 |2023.08.27|[\[KeyChain\] 기본 개념](https://thin-asiago-c43.notion.site/Using-the-Keychain-to-Manage-User-Secrets-177be748b9fb4d90ab08d8c2d6f8b708?pvs=4)|
 |2023.08.28|[\[Protocol Oriented Programming\]Protocol 관련 문법](https://thin-asiago-c43.notion.site/Protocol-a3acc4e02aee43c0add01cabc931fe86?pvs=4)|
 |2023.08.30|[\[건빵 Study\] 기술 면접 뿌수기 - 1](https://thin-asiago-c43.notion.site/Study-8-30-1-7dfb4e399f03452d943fe67300d6e99e?pvs=4)|
-|2023.09.01|[\[RxSwift\](다시 기본기부터 ...)](https://thin-asiago-c43.notion.site/RxSwift-d4de65f2c1324719b3ec5e4391ee7e00?pvs=4)|
+|2023.09.01|[\[RxSwift\]다시 기본기부터 ...](https://thin-asiago-c43.notion.site/RxSwift-d4de65f2c1324719b3ec5e4391ee7e00?pvs=4)|
 |--|--|
 
 <br>
