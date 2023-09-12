@@ -17,6 +17,8 @@
 |2023.08.30|[\[건빵 Study\] 기술 면접 뿌수기 - 1](https://thin-asiago-c43.notion.site/Study-8-30-1-7dfb4e399f03452d943fe67300d6e99e?pvs=4)|
 |2023.09.01|[\[RxSwift\]다시 기본기부터 ...](https://thin-asiago-c43.notion.site/RxSwift-d4de65f2c1324719b3ec5e4391ee7e00?pvs=4)|
 |2023.09.09|[\[Keychain\] 건빵 키체인 적용기](https://thin-asiago-c43.notion.site/Keychain-acd6b416e3dd45058f19b865898ade75?pvs=4)|
+|2023.09.09|[\[AppleSocialLogin\] 디버깅 하면서 알게 된 점](https://thin-asiago-c43.notion.site/Apple-Social-Login-f3116992d9294de3bcf525d8102ad014?pvs=4)|
+|2023.09.12|[\[Keychain\] 키체인 사용 할 때 알게 된 점](https://thin-asiago-c43.notion.site/Keychain-684f996966a24f64b1a5fc269d8cd9e1?pvs=4)|
 |--|--|
 
 <br>
