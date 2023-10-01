@@ -6,7 +6,7 @@
 |2023.07.30 ~ 2023.07.31|[\[RxSwift 곰튀김\] Step 1](https://thin-asiago-c43.notion.site/RxSwift-Step-1-c56b7f9579e04e98a58529b4320615ae?pvs=4)|
 |2023.07.31 ~ 2023.08.08|[\[RxSwift 곰튀김\] Step 3](https://thin-asiago-c43.notion.site/RxSwift-Step-3-2c14acd1f7594cdcb39e27c329d6c76d?pvs=4)|
 |2023.08.08|[\[RxSwift 곰튀김\] Step 3 Continued](https://thin-asiago-c43.notion.site/RxSwift-Step-3-Cont-22fdcc58e6df4ddabff55cff4122c204?pvs=4)|
-|2023.08.08|[\[Velog\] 코드 분석](https://thin-asiago-c43.notion.site/Velog-1-56244e4914274f13a3b915aeaa6f15dc?pvs=4)|
+|2023.08.08|[\[EasyVel\] 내가 쓴 RxMVVM 분석 - Posts 쪽 구조](https://thin-asiago-c43.notion.site/Velog-1-56244e4914274f13a3b915aeaa6f15dc?pvs=4)|
 |2023.08.12|[Diffable Data Source](https://thin-asiago-c43.notion.site/DiffableDataSource-4d0441bb26ed4ae29be2416e41f87f59?pvs=4)|
 |2023.08.15|[카카오 소셜 로그인](https://thin-asiago-c43.notion.site/Kakao-Social-Login-b6ff5cc0b0cc4eb68b6005e4a5842e56?pvs=4)||
 |2023.08.16|[애플 소셜 로그인](https://thin-asiago-c43.notion.site/Apple-Social-Login-0f3142d8d28f43e1a8a2986a1ca2e60e?pvs=4)|
@@ -22,6 +22,7 @@
 |2023.09.16|[\[API 통신\] AuthInterceptor](https://thin-asiago-c43.notion.site/API-AuthInterceptor-3eae663dcf6644198b34af345a71892f?pvs=4)|
 |2023.09.21|[\[RxSwift\] 내가 쓴 RxMVVM 분석](https://thin-asiago-c43.notion.site/RxMVVM-RxMVVM-058d410633e74cd5a854470086789656?pvs=4)|
 |2023.10.01|[\[RxSwift\] Driver](https://thin-asiago-c43.notion.site/RxSwift-Driver-eb301118ea5d4bbaa3d85d442d05e536?pvs=4)|
+|2023.10.02|[\[EasyVel\] 내가 쓴 RxMVVM 분석 - Cell의 로직 처리](https://thin-asiago-c43.notion.site/Velog-RxMVVM-Cell-bf61259c1b87493bbd8833a493edac00?pvs=4)|
 
 <br>
 
