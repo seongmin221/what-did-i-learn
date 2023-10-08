@@ -23,6 +23,7 @@
 |2023.09.21|[\[EasyVel\] 내가 쓴 RxMVVM 분석 - Posts 쪽 기본 구조](https://thin-asiago-c43.notion.site/RxMVVM-RxMVVM-058d410633e74cd5a854470086789656?pvs=4)|
 |2023.10.01|[\[RxSwift\] Driver](https://thin-asiago-c43.notion.site/RxSwift-Driver-eb301118ea5d4bbaa3d85d442d05e536?pvs=4)|
 |2023.10.02|[\[EasyVel\] 내가 쓴 RxMVVM 분석 - Cell의 로직 처리](https://thin-asiago-c43.notion.site/Velog-RxMVVM-Cell-bf61259c1b87493bbd8833a493edac00?pvs=4)|
+|2023.10.03|[\[RxSwift\] self? 그만 !](https://thin-asiago-c43.notion.site/RxSwift-weak-self-fc393eea23c245d8bdabd947d4517723?pvs=4)|
 
 <br>
 
