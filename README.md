@@ -24,6 +24,8 @@
 |2023.10.01|[\[RxSwift\] Driver](https://thin-asiago-c43.notion.site/RxSwift-Driver-eb301118ea5d4bbaa3d85d442d05e536?pvs=4)|
 |2023.10.02|[\[EasyVel\] 내가 쓴 RxMVVM 분석 - Cell의 로직 처리](https://thin-asiago-c43.notion.site/Velog-RxMVVM-Cell-bf61259c1b87493bbd8833a493edac00?pvs=4)|
 |2023.10.03|[\[RxSwift\] self? 그만 !](https://thin-asiago-c43.notion.site/RxSwift-weak-self-fc393eea23c245d8bdabd947d4517723?pvs=4)|
+|2023.10.11|[\[Combine\] 공식문서 뜯어보기 - Publisher & Subscriber](https://thin-asiago-c43.notion.site/Combine-Publisher-Subscriber-e817c9ce9b8d4c0fa0ad7a4b699e82d9?pvs=4)|
+|2023.10.11|[\[Combine\] 공식문서 뜯어보기 - Receiving and Handling Events with Combine](https://thin-asiago-c43.notion.site/Combine-Receiving-and-Handling-Events-with-Combine-c7b982102b54415faaa99443ccadb822?pvs=4)|
 
 <br>
 
