@@ -26,6 +26,8 @@
 |2023.10.03|[\[RxSwift\] self? 그만 !](https://thin-asiago-c43.notion.site/RxSwift-weak-self-fc393eea23c245d8bdabd947d4517723?pvs=4)|
 |2023.10.11|[\[Combine\] 공식문서 뜯어보기 - Publisher & Subscriber](https://thin-asiago-c43.notion.site/Combine-Publisher-Subscriber-e817c9ce9b8d4c0fa0ad7a4b699e82d9?pvs=4)|
 |2023.10.11|[\[Combine\] 공식문서 뜯어보기 - Receiving and Handling Events with Combine](https://thin-asiago-c43.notion.site/Combine-Receiving-and-Handling-Events-with-Combine-c7b982102b54415faaa99443ccadb822?pvs=4)|
+|2023.10.12 ~ 2023.10.15|[\[졸업 프로젝트\] Custom Camera App 만들기](https://thin-asiago-c43.notion.site/Making-Custom-Camera-0c336c0a55434dfeb50a8a223a96d4d4?pvs=4)|
+
 
 <br>
 
