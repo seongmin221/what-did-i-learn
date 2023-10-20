@@ -31,6 +31,7 @@
 |2023.10.17|[\[내가 한 고민들\] MVVM-C 이렇게 사용하는게 맞을까](https://thin-asiago-c43.notion.site/Coordinator-Pattern-c53a9ccccc0f4ba59025cc0efcc390e4?pvs=4)|
 |2023.10.19|[\[기본에 집중하기\] View Drawing Cycle - 1](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-1-2ab17a5f762649218fb3e92d8c388c90?pvs=4)|
 |2023.10.19|[\[기본에 집중하기\] View Drawing Cycle - 2](https://thin-asiago-c43.notion.site/View-Drawing-Cycle-2-3ade5833055342f7b297e4f191f15983?pvs=4)|
+|2023.10.20|[\[기본에 집중하기\] Dependency 란 ?](https://thin-asiago-c43.notion.site/Depedency-7451b42fdde443c39ddca33342ea0154?pvs=4)|
 
 
 <br>
