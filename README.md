@@ -35,6 +35,7 @@
 |2023.10.28 ~ 2023.10.30|[\[Combine\] Chapter 2. Publishers & Subscribers](https://thin-asiago-c43.notion.site/Combine-Chapter-2-Publishers-Subscribers-b4f3f307e75d49b3ae466017865dd05a?pvs=4)
 |2023.11.03 ~ 2023.11.05|[\[Combine\] Chapter 12. Key-Value Observing](https://thin-asiago-c43.notion.site/Combine-Chapter-12-Key-Value-Observing-48f545aa079449b8b7d02d32bf8eea20?pvs=4)|
 |2023.11.24|[\[알고리즘\] Dijkstra algorithm](https://thin-asiago-c43.notion.site/Dijkstra-algorithm-add84e846515438f8f47449413a2942a?pvs=4)|
+|2023.11.28|[\[RxSwift\] Chapter 2. Observables](https://thin-asiago-c43.notion.site/RxSwift-Chap-2-Observables-7370d6e2adb049008b99bfd5b8b7a846?pvs=4)|
 
 
 <br>
