@@ -36,6 +36,7 @@
 |2023.11.03 ~ 2023.11.05|[\[Combine\] Chapter 12. Key-Value Observing](https://thin-asiago-c43.notion.site/Combine-Chapter-12-Key-Value-Observing-48f545aa079449b8b7d02d32bf8eea20?pvs=4)|
 |2023.11.24|[\[알고리즘\] Dijkstra algorithm](https://thin-asiago-c43.notion.site/Dijkstra-algorithm-add84e846515438f8f47449413a2942a?pvs=4)|
 |2023.11.28|[\[RxSwift\] Chapter 2. Observables](https://thin-asiago-c43.notion.site/RxSwift-Chap-2-Observables-7370d6e2adb049008b99bfd5b8b7a846?pvs=4)|
+|2023.11.29|[\[RxSwift\] Chatper 3. Subjects](https://thin-asiago-c43.notion.site/RxSwift-Chap-3-Subjects-1e6ae3f7ada84f91bbb5a3ac886ab54e?pvs=4)|
 
 
 <br>
