@@ -38,6 +38,7 @@
 |2023.11.28|[\[RxSwift\] Chapter 2. Observables](https://thin-asiago-c43.notion.site/RxSwift-Chap-2-Observables-7370d6e2adb049008b99bfd5b8b7a846?pvs=4)|
 |2023.11.29|[\[RxSwift\] Chatper 3. Subjects](https://thin-asiago-c43.notion.site/RxSwift-Chap-3-Subjects-1e6ae3f7ada84f91bbb5a3ac886ab54e?pvs=4)|
 |2023.12.25|[\[알고리즘\] Trie 자료구조](https://thin-asiago-c43.notion.site/Trie-fc8b0329c25a4a22b0ce1c7994cc26d4?pvs=4)|
+|2023.12.26 ~ |[취업하자 성민아] 이력서 및 포폴 작성 중 ... & 1일 1알고리즘 도전 중 ...|
 
 
 <br>
