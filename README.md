@@ -39,6 +39,7 @@
 |2023.11.29|[\[RxSwift\] Chatper 3. Subjects](https://thin-asiago-c43.notion.site/RxSwift-Chap-3-Subjects-1e6ae3f7ada84f91bbb5a3ac886ab54e?pvs=4)|
 |2023.12.25|[\[알고리즘\] Trie 자료구조](https://thin-asiago-c43.notion.site/Trie-fc8b0329c25a4a22b0ce1c7994cc26d4?pvs=4)|
 |2023.12.26 ~ |[취업하자 성민아] 이력서 및 포폴 작성 중 ... & 1일 1알고리즘 도전 중 ...|
+|2023.01.15|[\[기본에 충실하자\] 디바이스 내부 DB들](https://lava-experience-586.notion.site/DB-3377239e02484fc6bb0decf2f20ba242?pvs=4)|
 
 
 <br>
