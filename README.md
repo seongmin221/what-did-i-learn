@@ -41,6 +41,8 @@
 |2023.12.26 ~ |[취업하자 성민아] 이력서 및 포폴 작성 중 ... & 1일 1알고리즘 도전 중 ...|
 |2024.01.15|[\[기본에 충실하자\] 디바이스 내부 DB들](https://lava-experience-586.notion.site/DB-3377239e02484fc6bb0decf2f20ba242?pvs=4)|
 |2024.01.16|[\[기본에 충실하자\] SOLID - Open Closed Principle](https://lava-experience-586.notion.site/SOLID-Open-Closed-Principle-5ff38f5f09aa438dae5225f3b89cf400?pvs=4)|
+|2024.01.17|[\[기본에 충실하자\] SOLID - Laskov Substitution Principle](https://lava-experience-586.notion.site/SOLID-Liskov-Substitution-Principle-d063f33798804bee8f951af089e4870a?pvs=4)|
+|2024.01.17|[\[기본에 충실하자\] SOLID - Dependency Inversion Principle](https://lava-experience-586.notion.site/SOLID-Dependency-Inversion-e96b086fbceb41d6bb62f4639c769862?pvs=4)|
 
 
 <br>
