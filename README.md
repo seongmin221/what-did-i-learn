@@ -44,7 +44,7 @@
 |2024.01.17|[\[기본에 충실하자\] SOLID - Laskov Substitution Principle](https://lava-experience-586.notion.site/SOLID-Liskov-Substitution-Principle-d063f33798804bee8f951af089e4870a?pvs=4)|
 |2024.01.17|[\[기본에 충실하자\] SOLID - Dependency Inversion Principle](https://lava-experience-586.notion.site/SOLID-Dependency-Inversion-e96b086fbceb41d6bb62f4639c769862?pvs=4)|
 |2024.01.18|[\[뜯어보기\] Clean + ExampleMVVM](https://lava-experience-586.notion.site/ExampleMVVM-c3114d10659c4a5ba8d9f260403dfcd9?pvs=4)|
-
+|2024.01.27|[\[Clean Architecture\] 1장. 소개](https://lava-experience-586.notion.site/Clean-Architecture-1-695832a7dc3c49c0bc74fc0b8e79ea36?pvs=4)|
 
 <br>
 
