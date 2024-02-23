@@ -48,6 +48,7 @@
 |2024.01.31|[\[SwiftUI\] EnvironmentObject](https://lava-experience-586.notion.site/SwiftUI-Environment-47048096ac024041888d2bd4b91e676c?pvs=4)|
 |2024.02.20|[\[기본에 충실하자\] Class Diagram 읽어보기](https://lava-experience-586.notion.site/CS-Class-Diagram-2429ac9489d04e39a6be532d23677d39?pvs=4)|
 |2024.02.22|[\[기본에 충실하자\] CocoaPods 연습](https://lava-experience-586.notion.site/CocoaPods-d4ff684f942a42718de778b13115953a?pvs=4)|
+|2024.02.23|[\[Object-Oriented\] 1장. 협력하는 객체들의 공동체](https://lava-experience-586.notion.site/1-dc33780a38144b5799dd12c93afa80ad?pvs=4)|
 
 <br>
 
