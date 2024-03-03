@@ -51,6 +51,7 @@
 |2024.02.23|[\[Object-Oriented\] 1장. 협력하는 객체들의 공동체](https://lava-experience-586.notion.site/1-dc33780a38144b5799dd12c93afa80ad?pvs=4)|
 |2024.02.29|[\[Design Pattern\] Builder Pattern](https://lava-experience-586.notion.site/Creational-Pattern-Builder-Pattern-c8b9ddf0a4604a9988438790d9d17e92?pvs=4)|
 |2024.03.03|[\[기본에 충실하자\] SOLID - 전체 정리](https://lava-experience-586.notion.site/SOLID-a605273ab1794b6b8426bc10042990c2?pvs=4)|
+|2024.03.03|[\[Object-Oriented\] 2장. 이상한 나라의 객체](https://lava-experience-586.notion.site/2-2fc8c8b4f4d048c2a7e3cd86fde25849?pvs=4)|
 
 <br>
 
