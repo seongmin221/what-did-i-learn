@@ -57,6 +57,7 @@
 |2024.03.20|[\[Object-Oriented\] 4장. 역할, 책임, 협력](https://lava-experience-586.notion.site/4-1e867f3b7b0a43fe98c6c53ebcab8026?pvs=4)|
 |2024.03.31|[\[건빵\] - 리팩토링 전 계획](https://velog.io/@id_entity/리팩토링-건빵-시작-전-계획)|
 |2024.04.08|[\[Design Pattern\] Coordiantor Pattern의 고민과 연습](https://velog.io/@id_entity/건빵-Coordinator-Pattern-연습-기록)|
+|2024.04.12|[\[Clean Architecture\] 객체지향적 관점에서의 클린 아키텍쳐](https://velog.io/@id_entity/연습장-Clean-Architecture의-객체지향적-관점에서의-해석)|
 
 <br>
 
