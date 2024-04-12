@@ -56,7 +56,7 @@
 |2024.03.10|[\[Object-Oriented\] 3장. 타입과 추상화](https://lava-experience-586.notion.site/3-a52fd0554c0d481c8ee1fe127e684e1a?pvs=4)|
 |2024.03.20|[\[Object-Oriented\] 4장. 역할, 책임, 협력](https://lava-experience-586.notion.site/4-1e867f3b7b0a43fe98c6c53ebcab8026?pvs=4)|
 |2024.03.31|[\[건빵\] - 리팩토링 전 계획](https://velog.io/@id_entity/리팩토링-건빵-시작-전-계획)|
-
+|2024.04.08|[\[Design Pattern\] Coordiantor Pattern의 고민과 연습](https://velog.io/@id_entity/건빵-Coordinator-Pattern-연습-기록)|
 
 <br>
 
