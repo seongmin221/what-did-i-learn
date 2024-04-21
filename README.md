@@ -58,6 +58,7 @@
 |2024.03.31|[\[건빵\] - 리팩토링 전 계획](https://velog.io/@id_entity/리팩토링-건빵-시작-전-계획)|
 |2024.04.08|[\[Design Pattern\] Coordiantor Pattern의 고민과 연습](https://velog.io/@id_entity/건빵-Coordinator-Pattern-연습-기록)|
 |2024.04.12|[\[Clean Architecture\] 객체지향적 관점에서의 클린 아키텍쳐](https://velog.io/@id_entity/연습장-Clean-Architecture의-객체지향적-관점에서의-해석)|
+|2024.04.13 ~ |[면접 & 코테 준비] 운영체제 냅다 파는 중 ...|
 
 <br>
 
