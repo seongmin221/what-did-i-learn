@@ -60,6 +60,7 @@
 |2024.04.12|[\[Clean Architecture\] 객체지향적 관점에서의 클린 아키텍쳐](https://velog.io/@id_entity/연습장-Clean-Architecture의-객체지향적-관점에서의-해석)|
 |2024.04.13 ~ |[면접 & 코테 준비] 운영체제 냅다 파는 중 ...|
 |2024.05.01|[\[디자인패턴\] Adapter Pattern](https://lava-experience-586.notion.site/Adapter-Pattern-3955c4e1fc4d4c0a9357d6ba5319aaab?pvs=4)|
+|2024.05.03 ~ |[면접 준비] 컴퓨터 네트워크 냅다 파는 중 ...|
 
 <br>
 
